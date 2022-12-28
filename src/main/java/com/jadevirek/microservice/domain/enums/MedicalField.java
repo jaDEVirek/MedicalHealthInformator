@@ -1,10 +1,10 @@
-package domain.enums;
+package com.jadevirek.microservice.domain.enums;
 
 public enum MedicalField {
   IMMUNOLOGY,
   ENDOCRINOLOGY,
   MORFOLOGY,
   LIVER_PANEL,
-  LIPIDOGRAMS,
+  LIPIDOGRAM_PANEL,
   DIABETES_PANEL,
 }
